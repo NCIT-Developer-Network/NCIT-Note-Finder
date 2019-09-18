@@ -13,7 +13,7 @@ How will I build Note Finder?
 ==============================
 Using my Knowledge in Python, Django, Bootstrap, JS, and other Engineering Hacks, I will prepare a web app which will allow users to download or upload study materials with a less pain and more satisfaction.
 
-All the notes will be stored in a Database and All the notes are meant to be licensed under Creative Commons license.
+All the notes will be stored either in a database or links will be provided to download the notes and All the notes are meant to be licensed under Creative Commons license.
 
 Minimum Specification
 =====================
